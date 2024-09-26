@@ -4,40 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f7a30507-4fd3-4edd-ac32-fc4eec57d6d5" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/babel.config.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/favicon.ico" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/App.vue" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/api/index.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/assets/logo.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/AnalysisForm/AnalysisForm.vue" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/AnalysisList/AnalysisList.vue" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/Btn/Btn.vue" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/IllnessForm/IllnessForm.vue" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/IllnessList/IllnessList.vue" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/Input/Input.vue" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/Layout/Layout.vue" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/Select/Select.vue" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/Table/Table.vue" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/router/index.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/store/analyses/api.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/store/analyses/index.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/store/analyses/selectors.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/store/illnesses/api.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/store/illnesses/index.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/store/illnesses/selectors.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/store/index.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/views/AnalysesPage.vue" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/views/AnalysisEdit.vue" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/views/IllnessEdit.vue" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/views/IllnessesPage.vue" beforeDir="false" />
-    </list>
+    <list default="true" id="f7a30507-4fd3-4edd-ac32-fc4eec57d6d5" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -92,7 +59,7 @@
       <workItem from="1727293464852" duration="268000" />
       <workItem from="1727293781725" duration="448000" />
       <workItem from="1727323393054" duration="782000" />
-      <workItem from="1727341415395" duration="328000" />
+      <workItem from="1727341415395" duration="554000" />
     </task>
     <servers />
   </component>
